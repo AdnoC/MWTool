@@ -1,7 +1,1 @@
-MWTool
-======
-
-This is a tool to sync MangaWatcher (http://www.manga-watcher.com/) and MyAnimeList
-(http://www.myanimelist.net). It will sync read mangas from a MW account to one's MAL account.
-
-Status: In progress
+Moved to github.com/AdnoC/MWSync because I liked the name better.
